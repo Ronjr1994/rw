@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
-<symbol id="i-arrow-ne" viewBox="0 0 24 24"><path d="M5 19 19 5M10 5h9v9" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
-<symbol id="i-arrow-se" viewBox="0 0 24 24"><path d="m5 5 14 14M10 19h9v-9" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
-<symbol id="i-mail" viewBox="0 0 24 24"><path d="M4 6h16v12H4zM4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
-<symbol id="i-download" viewBox="0 0 24 24"><path d="M12 4v11m0 0 4-4m-4 4-4-4M5 20h14" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
-</svg>
